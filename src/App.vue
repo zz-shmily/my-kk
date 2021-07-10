@@ -3,7 +3,7 @@
   <div>
     <el-button type="primary">el-button</el-button>
   </div>
-  <HelloWorld msg="Welcome to Your Vue.js App" />
+  <HelloWorld msg="Welcome to Your Vue.js App，哈哈哈哈哈" />
 </template>
 
 <script lang="ts">

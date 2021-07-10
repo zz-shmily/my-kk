@@ -1,5 +1,4 @@
 <template>
-  <img src="./assets/logo.png" />
   <div>
     <el-button type="primary">el-button</el-button>
   </div>
